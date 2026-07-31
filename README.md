@@ -32,25 +32,25 @@ Actualmente trabajo desarrollando soluciones enfocadas en:
 
 # 📂 Proyectos Destacados
 
-### 🚀 Kybo
+### Kybo
 
 Aplicación web desarrollada para optimizar procesos mediante herramientas de gestión y automatización.
 
 ---
 
-### 📄 Sistema de Cotizaciones
+### Sistema de Cotizaciones
 
 Plataforma para administrar clientes, productos y generar cotizaciones profesionales.
 
 ---
 
-### 🏢 Catálogo Empresarial
+### Catálogo Empresarial
 
 Sistema para la administración de información empresarial.
 
 ---
 
-### 🔗 Integraciones
+### Integraciones
 
 Desarrollo de APIs REST y Webhooks para conectar diferentes plataformas y automatizar procesos.
 
@@ -60,7 +60,9 @@ Desarrollo de APIs REST y Webhooks para conectar diferentes plataformas y automa
 
 - Docker
 - Arquitectura de Software
-- CI/CD
+- CI/CD (Integración y Despliegue Continuo)
+- React
+- Inglés técnico
 - Liderazgo Técnico
 
 ---
