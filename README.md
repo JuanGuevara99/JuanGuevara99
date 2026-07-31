@@ -67,6 +67,48 @@ Desarrollo de APIs REST y Webhooks para conectar diferentes plataformas y automa
 
 ---
 
+# 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanGuevara99&show_icons=true&theme=tokyonight&locale=es" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGuevara99&layout=compact&theme=tokyonight&locale=es" height="170"/>
+</p>
+
+---
+
+# 🔥 Racha de contribuciones
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JuanGuevara99&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanGuevara99&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 👀 Visitas al perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuanGuevara99&label=Visitas&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🚀 Actualmente
+
+- 💻 Desarrollando aplicaciones con Laravel y PHP.
+- 🔗 Creando integraciones mediante APIs REST y Webhooks.
+- 🤖 Automatizando procesos empresariales.
+- 📚 Fortaleciendo conocimientos en Docker, React e Inglés Técnico.
+
+---
+
 # 📫 Contacto
 juangueavara1121@gmail.com
 
@@ -75,3 +117,4 @@ juangueavara1121@gmail.com
 💼 LinkedIn
 
 www.linkedin.com/in/juan-sebastian-guevara-nino
+
