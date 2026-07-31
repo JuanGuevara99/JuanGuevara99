@@ -8,7 +8,7 @@ Tengo experiencia en el desarrollo de aplicaciones web, automatización de proce
 
 ---
 
-# 🚀 Tecnologías
+# Tecnologías
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,php,js,mysql,html,css,bootstrap,git,github,linux,vscode" />
@@ -16,7 +16,7 @@ Tengo experiencia en el desarrollo de aplicaciones web, automatización de proce
 
 ---
 
-# 💼 Experiencia
+# Experiencia
 
 Actualmente trabajo desarrollando soluciones enfocadas en:
 
