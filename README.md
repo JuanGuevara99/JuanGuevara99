@@ -70,8 +70,8 @@ Desarrollo de APIs REST y Webhooks para conectar diferentes plataformas y automa
 # 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanGuevara99&show_icons=true&theme=tokyonight&locale=es" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGuevara99&layout=compact&theme=tokyonight&locale=es" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanGuevara99&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGuevara99&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -84,19 +84,9 @@ Desarrollo de APIs REST y Webhooks para conectar diferentes plataformas y automa
 
 ---
 
-# 🏆 Logros
+# 🎯 Objetivo Profesional
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanGuevara99&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-# 👀 Visitas al perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanGuevara99&label=Visitas&color=0e75b6&style=flat" />
-</p>
+Continuar creciendo como Desarrollador de Software y Líder Técnico, participando en proyectos que involucren desarrollo de aplicaciones web, automatización de procesos e integración de plataformas mediante tecnologías modernas.
 
 ---
 
