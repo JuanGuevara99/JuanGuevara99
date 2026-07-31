@@ -67,15 +67,6 @@ Desarrollo de APIs REST y Webhooks para conectar diferentes plataformas y automa
 
 ---
 
-# 📊 Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanGuevara99&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGuevara99&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 # 🔥 Racha de contribuciones
 
 <p align="center">
