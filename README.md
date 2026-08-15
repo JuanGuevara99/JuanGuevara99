@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan Sebastián Guevara
+# 👋 ¡Hola! Soy Juan Sebastian Guevara
 
 ## 💻 Ingeniero de Sistemas | Desarrollador de Software
 
